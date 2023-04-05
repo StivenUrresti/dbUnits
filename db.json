@@ -12,6 +12,12 @@
         },
         {
           "id": 2,
+          "titleLesson": "Aprendiendo como usar las",
+          "img": "https://www.nextflicks.tv/wp-content/uploads/2023/01/watch-paw-patrol.jpg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 3,
           "titleLesson": "react native animated ",
           "img": "https://i.blogs.es/0cafeb/naruto/1366_2000.jpeg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
@@ -30,6 +36,12 @@
         },
         {
           "id": 2,
+          "titleLesson": "Lorem ipsum es el imganes ",
+          "img": "https://estaticos-cdn.elperiodico.com/clip/bd2a087e-0076-4792-80e5-27e8d52955c1_16-9-aspect-ratio_default_0.png",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 3,
           "titleLesson": "react native animated la mejor de todas las librearias",
           "img": "https://los40es00.epimg.net/los40/imagenes/2021/05/17/comics/1621270735_498587_1621270811_noticia_normal_amp.jpg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
@@ -48,6 +60,12 @@
         },
         {
           "id": 2,
+          "titleLesson": "que hacer en caso ",
+          "img": "https://www.ngenespanol.com/wp-content/uploads/2023/03/espacio-tiempo-se-fracturo-1280x720.jpg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 3,
           "titleLesson": "react native animated no es tan buena ",
           "img": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
