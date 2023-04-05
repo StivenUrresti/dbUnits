@@ -84,6 +84,12 @@
         },
         {
           "id": 2,
+          "titleLesson": "de cero a experto en p",
+          "img": "https://cdn0.geoenciclopedia.com/es/posts/7/5/0/luna_57_orig.jpg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 3,
           "titleLesson": "que hacer cuando el codigo no compila",
           "img": "https://ramenparados.com/wp-content/uploads/2009/01/bakugan_logo_rp2.png",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
