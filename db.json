@@ -21,6 +21,12 @@
           "titleLesson": "react native animated ",
           "img": "https://i.blogs.es/0cafeb/naruto/1366_2000.jpeg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 4,
+          "titleLesson": "react Prueba en Horizontal",
+          "img": "https://i.blogs.es/0cafeb/naruto/1366_2000.jpeg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
         }
       ]
     },
@@ -43,6 +49,12 @@
         {
           "id": 3,
           "titleLesson": "react native animated la mejor de todas las librearias",
+          "img": "https://los40es00.epimg.net/los40/imagenes/2021/05/17/comics/1621270735_498587_1621270811_noticia_normal_amp.jpg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 4,
+          "titleLesson": "react native es lo mejor",
           "img": "https://los40es00.epimg.net/los40/imagenes/2021/05/17/comics/1621270735_498587_1621270811_noticia_normal_amp.jpg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
         }
@@ -69,6 +81,12 @@
           "titleLesson": "react native animated no es tan buena ",
           "img": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 4,
+          "titleLesson": "haciendo prueba de las lecciones",
+          "img": "https://definicion.de/wp-content/uploads/2009/12/paisaje-1.jpg",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
         }
       ]
     },
@@ -91,6 +109,12 @@
         {
           "id": 3,
           "titleLesson": "que hacer cuando el codigo no compila",
+          "img": "https://ramenparados.com/wp-content/uploads/2009/01/bakugan_logo_rp2.png",
+          "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+        },
+        {
+          "id": 4,
+          "titleLesson": "donde buscar los errores",
           "img": "https://ramenparados.com/wp-content/uploads/2009/01/bakugan_logo_rp2.png",
           "topic": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
         }
